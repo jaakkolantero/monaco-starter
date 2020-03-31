@@ -10,15 +10,18 @@
     "commit": "git-cz"
   },
   "dependencies": {
+    "monaco-editor-webpack-plugin": "^1.9.0",
     "next": "^9.3.0",
     "react": "^16.13.0",
-    "react-dom": "^16.13.0"
+    "react-dom": "^16.13.0",
+    "react-monaco-editor": "^0.35.0"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^2.1.0",
     "@types/node": "^13.9.0",
     "@types/react": "^16.9.23",
     "cz-conventional-changelog": "^3.1.0",
+    "next-transpile-modules": "^3.1.0",
     "postcss-preset-env": "^6.7.0",
     "tailwindcss": "^1.2.0",
     "typescript": "^3.8.3"
